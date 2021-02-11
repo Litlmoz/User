@@ -47,5 +47,6 @@
     "debug.javascript.breakOnConditionalError": true,
     "php.suggest.basic": false,
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+    "workbench.colorTheme": "Default Light+"
 }
